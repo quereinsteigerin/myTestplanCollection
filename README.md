@@ -46,7 +46,7 @@ This is repository collects some test plans that I generated for project and wor
         <br/>
         <img src="./project-01/img/log.png" height="300px">
 
-- Some tes cases example in test plan are as followings, the full test plan is located in folder `project-01/test_plan.pdf`
+- Some tes cases example in test plan are as followings, the full test plan is located in folder (project-01/test_plan.pdf)[https://github.com/quereinsteigerin/myTestplanCollection/blob/main/project-01/img/test_plan.pdf]
 <br/>
 <img src="./project-01/img/test_plan_example.png" height="300px">
 
