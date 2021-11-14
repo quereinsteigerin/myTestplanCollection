@@ -46,19 +46,19 @@ This is repository collects some test plans that I generated for project and wor
         <br/>
         <img src="./project-01/img/log.png" height="300px">
 
-- Some tes cases example in test plan are as followings, the full test plan is located in folder [project-01/test_plan.pdf](https://github.com/quereinsteigerin/myTestplanCollection/blob/main/project-01/img/test_plan.pdf)
+- Some test cases example in test plan are as followings, the full test plan is located in folder [project-01/test_plan.pdf](https://github.com/quereinsteigerin/myTestplanCollection/blob/main/project-01/img/test_plan.pdf)
 <br/>
 <img src="./project-01/img/test_plan_example.png" height="300px">
 
 2. **Project-02: generate a test plan for a banking system**
-- The Banking projects ....
-    - xxx
-    - xxdax
+- The Banking project aims to provide net banking facility to its customers, such as create account for new customer, edit customer, login & logout, change password, balance enquiry, fund transfer, deposit, withdraw, bank statement, delete account, etc. 
+    - use cases of how the sytstem works are given.
+    - specific technical requirements for each feature are also listed.
      <br/>
      <img src="./project-02/img/banking.png" height="300px">
 
-     Some tes cases example in test plan are as followings, the full test plan is located in folder [project-02/banking.pdf](https://github.com/quereinsteigerin/myTestplanCollection/blob/main/project-02/banking.pdf)
-
+     Above is a random section of the banking system requirements, the full version can be downloaded [here.](https://github.com/quereinsteigerin/myTestplanCollection/blob/main/project-02/banking.pdf)
+- One of my solutions for the testing the edit customer feature can be downloaded [here](https://github.com/quereinsteigerin/myTestplanCollection/blob/main/project-02/testcase-editcustomer.pdf)
 
 
 
