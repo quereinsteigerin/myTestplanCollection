@@ -50,6 +50,14 @@ This is repository collects some test plans that I generated for project and wor
 <br/>
 <img src="./project-01/img/test_plan_example.png" height="300px">
 
+2. **Project-02: generate a test plan for a banking system**
+- The Banking projects ....
+    - xxx
+    - xxdax
+     <br/>
+     <img src="./project-02/img/banking.png" height="300px">
+
+     Some tes cases example in test plan are as followings, the full test plan is located in folder [project-02/banking.pdf](https://github.com/quereinsteigerin/myTestplanCollection/blob/main/project-02/img/banking.pdf)
 
 
 
