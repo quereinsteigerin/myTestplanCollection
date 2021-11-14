@@ -57,7 +57,7 @@ This is repository collects some test plans that I generated for project and wor
      <br/>
      <img src="./project-02/img/banking.png" height="300px">
 
-     Some tes cases example in test plan are as followings, the full test plan is located in folder [project-02/banking.pdf](https://github.com/quereinsteigerin/myTestplanCollection/blob/main/project-02/img/banking.pdf)
+     Some tes cases example in test plan are as followings, the full test plan is located in folder [project-02/banking.pdf](https://github.com/quereinsteigerin/myTestplanCollection/blob/main/project-02/banking.pdf)
 
 
 
